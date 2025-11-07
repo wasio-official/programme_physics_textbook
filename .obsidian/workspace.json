@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "7c46633666b9e7a8",
+    "id": "ea50db69079a7f5d",
     "type": "split",
     "children": [
       {
-        "id": "00c527f4748d0756",
+        "id": "d08dc91c8119e356",
         "type": "tabs",
         "children": [
           {
-            "id": "5695b42c2d649554",
+            "id": "9c18f3da3d99b316",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mech_2.md",
+                "file": "Mech_3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mech_2"
+              "title": "Mech_3"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "56aec194dfb7aa77",
+    "id": "73ea3cd7a5cc46ff",
     "type": "split",
     "children": [
       {
-        "id": "2c0a7aac58e2f4cc",
+        "id": "f4652af6e79919ce",
         "type": "tabs",
         "children": [
           {
-            "id": "ae56647b10e47c05",
+            "id": "092815f0ffe9d716",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "da8c85396b871004",
+            "id": "469559d0f8f12973",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "8a9b440297f02891",
+            "id": "d30fb8c6a5784d34",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,38 +73,28 @@
               "icon": "lucide-bookmark",
               "title": "书签"
             }
-          },
-          {
-            "id": "f06c1a7ade51d470",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 300
   },
   "right": {
-    "id": "e6e362ee5d7a1ca2",
+    "id": "35cd6f60b543455b",
     "type": "split",
     "children": [
       {
-        "id": "9de42c6fdbd19937",
+        "id": "3e132fa42056fb14",
         "type": "tabs",
         "children": [
           {
-            "id": "ba230d05bb3b74e2",
+            "id": "face3ee0245b72ed",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "函数极限 10.11.md",
+                "file": "Mech_3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "函数极限 10.11 的反向链接列表"
+              "title": "Mech_3 的反向链接列表"
             }
           },
           {
-            "id": "8a127463ea791656",
+            "id": "bfa0f3b60d610922",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "函数极限 10.11.md",
+                "file": "Mech_3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "函数极限 10.11 的出链列表"
+              "title": "Mech_3 的出链列表"
             }
           },
           {
-            "id": "f11e755755e08fbf",
+            "id": "16d740504c56ee63",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -147,26 +137,26 @@
             }
           },
           {
-            "id": "2e66dd13d5418e87",
+            "id": "05736f3025f8e15d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mech_2.md",
+                "file": "Mech_3.md",
                 "followCursor": false,
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Mech_2 的大纲"
+              "title": "Mech_3 的大纲"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,54 +170,13 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "5695b42c2d649554",
+  "active": "9c18f3da3d99b316",
   "lastOpenFiles": [
-<<<<<<< HEAD
     "Mech_2.md",
-    "Mech_2.pdf",
-    "README.md",
-=======
-    "Mech_2.pdf",
-    "README.md",
-    "Mech_2.md",
->>>>>>> feature/Mech_2
-    "pic_clsc-mdl.svg",
-    "Mech_1.pdf",
-    "Mech_1.md",
     "Mech_3.md",
-    "Untitled.svg",
-    "m2.pdf",
-    "pic_classicmodel.pdf",
-    "Untitled.pdf",
-    "Untitled.jpg",
-    "pic_classicmodel.jpg",
-    "ED.md",
-    "Functional Analysis.md",
-    "Functional Analysis (T.Bühler,D.A.Salamon).pdf",
-    "PB25000307 温希言 第五次作业.pdf",
-    "algebra4.pdf",
-    "algebra4.md",
-    "凯特摆测重力加速度实验报告.pdf",
-    "凯特摆测重力加速度实验报告.md",
-    "algebra3.md",
-    "实验方案设计.pdf",
-    "实验方案设计.md",
-    "数分 10.10.md",
-    "数分 10.11.md",
-    "群论.md",
-    "数分 10.13.md",
-    "数分 10.12 习题课.md",
-    "Notation.md",
-    "填坑.md",
-    "复变.md",
-    "used/代数学.md",
-    "used/test.md",
-    "used/algebra2.md",
-    "used/Algebra_Questions.md",
-    "algebra2.md",
-    "代数学.md",
-    "test.md",
-    "未命名 1.canvas",
-    "未命名.canvas"
+    "Mech_1.md",
+    "Mech_2.pdf",
+    "pic_clsc-mdl.svg",
+    "README.md"
   ]
 }
